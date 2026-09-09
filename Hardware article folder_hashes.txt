@@ -1,0 +1,5 @@
+﻿E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855 *C:\Users\Spenc\Desktop\Hardware article folder\Hardware article folder_hashes.txt
+5F8DE07537F6AD9D520A85A6EB6FD92DA90D4D5849E007D9FF670718D7A4BA93 *C:\Users\Spenc\Desktop\Hardware article folder\Screenshot_9-9-2026_74625_nvidianews.nvidia.com.jpeg
+1BBCDEE50F77AFE7AA338952EC7760AE509A1FCA9B361B05724FE920444BFD33 *C:\Users\Spenc\Desktop\Hardware article folder\Screenshot_9-9-2026_74659_investor.nvidia.com.jpeg
+481BAACADAB38B37CB7B30DFBB21FE20F4D1A2BA762CF12C73BCAD09E955255C *C:\Users\Spenc\Desktop\Hardware article folder\Screenshot_9-9-2026_74721_windowsforum.com.jpeg
+2736C9694EBE785A6DDE87603D0CAE7087633D8111FE5BBEDB031D22CD9314C9 *C:\Users\Spenc\Desktop\Hardware article folder\Screenshot_9-9-2026_74820_www.xda-developers.com.jpeg
